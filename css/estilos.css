@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    font-family: "Arial";
-    color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
 }
 .container{
     width: 70%;
